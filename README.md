@@ -1,6 +1,9 @@
 # react-yrange-provider
 Gets padded `minY`, `maxY` for `data` based on given `x`, `y` attributes within `minX`, `maxX`. And provide the `minY`, `maxY` to downstream component using `render` props.
 
+## Demo
+https://twisttrl.github.io/react-yrange-provider
+
 ## Examples
 ```
 <react-yrange-provider  data={ [{this:x,that:y},...] }
